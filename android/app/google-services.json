@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "405939594042",
+    "project_id": "candels-828a7",
+    "storage_bucket": "candels-828a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405939594042:android:e94494e8c524094b5d6603",
+        "android_client_info": {
+          "package_name": "com.example.candles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405939594042-iq6184lhd3ksu96qepqdac0hi4uc2hl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.candles",
+            "certificate_hash": "b700fe5c3cf3fc7077ab74b011ae4e0c8d5ddc94"
+          }
+        },
+        {
+          "client_id": "405939594042-7f31np6r4vgq0o71u7q492gtf813pe0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkDehrvdy7jVEEo8kVHCky6bve3lD2hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405939594042-7f31np6r4vgq0o71u7q492gtf813pe0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
